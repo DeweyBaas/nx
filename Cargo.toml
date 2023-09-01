@@ -1,7 +1,7 @@
 
 [workspace]
 members = [
-	'packages/nx'
+	'packages/nx1111'
 ]
 
 [profile.release]
